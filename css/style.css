@@ -83,25 +83,5 @@
     top: 100px;
     background: #F8E1EE;
     position: relative;
-}
-.box-inbox:before {
-    content:"";
-    position: absolute;
-    width: 178px;
-    height: 178px;
-    left: -16px;
-    top: -20px;
-    border: 2px dashed #E5E5E5;
-    box-sizing: border-box;
-}
-.box-inbox:after {
-    content:"";
-    position: absolute;
-    width: 90px;
-    height: 90px;
-    left: 24px;
-    top: 25px;
-    border: 2px dashed #FFFFFF;
-    box-sizing: border-box;
 
 }
