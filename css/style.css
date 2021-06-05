@@ -76,14 +76,6 @@
     padding: 0 15px;
     width: 16.6666%;
 }
-.box-inbox{
-    width: 140px;
-    height: 140px;
-    left: 60px;
-    top: 100px;
-    background: #F8E1EE;
-    position: relative;
-}
 .box-inbox:before {
     content:"";
     position: absolute;
